@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=180&section=header" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=220&section=header&text=Divith%20B&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Header"/>
 
-<h1 align="center">Hey there! I'm Divith B 👋</h1>
 <h3 align="center">AI & ML Engineering Student</h3>
 
 <p align="center">
