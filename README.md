@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=220&section=header&text=Divith%20B&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Header"/>
 
-<h3 align="center">AI & ML Engineering Student</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6E57F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI+%26+ML+Engineering+Student+%F0%9F%A7%A0;Building+Edge+AI+%7C+LLMs+%7C+Full-Stack+Apps+%F0%9F%9A%80;Turning+Research+into+Real+Products+%E2%9C%A8" alt="Typing SVG"/>
