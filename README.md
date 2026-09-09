@@ -47,7 +47,7 @@
 
 <div align="center">
 
-I'm **Divith B** — an undergraduate student specializing in **Artificial Intelligence & Machine Learning**.
+I'm **Divith B** — an undergraduate student specializing in **Artificial Intelligence &amp; Machine Learning**.
 
 <br/>
 
@@ -58,7 +58,7 @@ I build intelligent systems at the intersection of **Generative AI**, **Computer
 From training deep learning models on edge devices to architecting **LLM-powered agentic pipelines with RAG**,
 I love turning complex ideas into real, deployable products that matter.
 
-| 🎓 | **B.Tech — AI & ML** &nbsp; Undergraduate Student |
+| 🎓 | **B.Tech — AI &amp; ML** &nbsp; Undergraduate Student |
 |:--:|:--|
 | 🌍 | Based in **India** |
 | 🔭 | Currently exploring **LLMs · RAG Pipelines · Agentic AI** |
