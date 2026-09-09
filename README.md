@@ -39,7 +39,7 @@ I love turning complex ideas into real, deployable products that matter.
 | 🌍 | Based in **India** |
 | 🔭 | Currently exploring **LLMs · RAG Pipelines · Agentic AI** |
 | 📬 | **[kit28.24bam017@gmail.com](mailto:kit28.24bam017@gmail.com)** |
-| 🌐 | **[Portfolio](https://divith-b-portfolio-849747152613.asia-southeast1.run.app)** &nbsp;·&nbsp; **[Resume](https://drive.google.com/file/d/1WTSSnhorEN-5KUgoNOHMDBfK5kwXyn7-/view?usp=drive_link)** |
+| 🌐 | **[Portfolio](https://divith-b-portfolio-849747152613.asia-southeast1.run.app)** &nbsp;·&nbsp; **[Resume](https://drive.google.com/drive/folders/1ildotvbd59GIZaQd5sfO2EaQgS2P-eTP?usp=drive_link)** |
 
 ---
 
