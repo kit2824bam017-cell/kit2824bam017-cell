@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Divith"><img src="https://komarev.com/ghpvc/?username=Divith&style=for-the-badge&color=6E57F7&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+  <a href="https://github.com/kit2824bam017-cell"><img src="https://komarev.com/ghpvc/?username=Divith&style=for-the-badge&color=6E57F7&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/></a>
   &nbsp;
   <a href="https://github.com/Divith?tab=followers"><img src="https://img.shields.io/github/followers/Divith?style=for-the-badge&color=6E57F7&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/></a>
   &nbsp;
