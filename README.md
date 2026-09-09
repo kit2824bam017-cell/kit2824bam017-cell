@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=200&section=header&text=Divith%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineering%20Student&descAlignY=58&descSize=20&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=200&section=header&text=Divith%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineering%20Student&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <div align="center">
 
@@ -47,9 +47,15 @@
 
 <div align="center">
 
-I'm **Divith B** — an undergraduate student specializing in **Artificial Intelligence & Machine Learning**.  
-I build intelligent systems at the intersection of **Generative AI**, **Computer Vision**, and **Full-Stack Engineering**.  
-From training deep learning models on edge devices to architecting **LLM-powered agentic pipelines with RAG**,  
+I'm **Divith B** — an undergraduate student specializing in **Artificial Intelligence & Machine Learning**.
+
+<br/>
+
+I build intelligent systems at the intersection of **Generative AI**, **Computer Vision**, and **Full-Stack Engineering**.
+
+<br/>
+
+From training deep learning models on edge devices to architecting **LLM-powered agentic pipelines with RAG**,
 I love turning complex ideas into real, deployable products that matter.
 
 | 🎓 | **B.Tech — AI & ML** &nbsp; Undergraduate Student |
