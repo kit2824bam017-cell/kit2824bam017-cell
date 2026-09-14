@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/divith5050/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://divith-b-portfolio-849747152613.asia-southeast1.run.app"><img src="https://img.shields.io/badge/Portfolio-6E57F7?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://divith-b-doctor-strange-portfolio-ai-agent.ai.studio"><img src="https://img.shields.io/badge/Portfolio-6E57F7?style=flat-square&logo=vercel&logoColor=white" /></a>
   &nbsp;
   <a href="https://leetcode.com/u/Divith5050/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
   &nbsp;
